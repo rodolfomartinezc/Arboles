@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rodolfolinux/Documentos/Algoritmos y Estructuras de Datos/Arbol/src/Arbol.cpp
+Arbol.h
+/home/rodolfolinux/Documentos/Algoritmos y Estructuras de Datos/Arbol/src/Arbol.h
+iostream
+-
+string
+-
+
+include/Arbol.h
+Nodo.h
+include/Nodo.h
+
+include/Nodo.h
+string
+-
+
